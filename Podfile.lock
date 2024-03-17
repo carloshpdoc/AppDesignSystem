@@ -1,0 +1,22 @@
+PODS:
+  - Tokens (1.0.4)
+
+DEPENDENCIES:
+  - Tokens (from `https://github.com/carloshpdoc/SDKDesignSystem.git`, tag `Tokens-1.0.4`)
+
+EXTERNAL SOURCES:
+  Tokens:
+    :git: https://github.com/carloshpdoc/SDKDesignSystem.git
+    :tag: Tokens-1.0.4
+
+CHECKOUT OPTIONS:
+  Tokens:
+    :git: https://github.com/carloshpdoc/SDKDesignSystem.git
+    :tag: Tokens-1.0.4
+
+SPEC CHECKSUMS:
+  Tokens: 5899fd9c61febb3657eda63d067039fdfba4cfb4
+
+PODFILE CHECKSUM: 888a1cd20f2e62e24a83c6bbd1502483d9b555fd
+
+COCOAPODS: 1.11.2
